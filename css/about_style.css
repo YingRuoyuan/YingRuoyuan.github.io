@@ -1,0 +1,56 @@
+
+html, body{
+    font-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    font-family: 'Monaco', Monospace;
+}
+h1,h2,h3,h4,h5,h6,a,p{
+    margin:0;
+}
+.main h1{
+    font-size: 5em;
+    color: #000;
+    margin:0.4em 0 0;
+    line-height: 1;
+    font-family: 'Edwardian Script ITC', Monospace;
+}
+.main h2{
+    font-size: 3em;
+    color: #000;
+    font-weight:normal;
+    font-family: '楷体', Sans-serif;
+    text-transform: capitalize;
+}
+.main h3{
+    text-indent:50px;
+    line-height:200%;
+    font-size: 1em;
+    color: #000;
+    font-style:oblique;
+    font-weight:lighter;
+    text-transform: capitalize;
+}
+.main h4{
+    text-align:right;
+    text-indent:100px;
+    line-height:200%;
+    font-size: 1em;
+    color: #000;
+    font-style:oblique;
+    font-weight:lighter;
+    text-transform: capitalize;
+}
+
+.img-photo {
+    max-width: 540px;
+    max-height: 360px;
+    display: block;
+    margin-right: .7em;
+    margin-left: .7em;
+    padding: 0;
+    float: right;
+    clear: right;
+}
