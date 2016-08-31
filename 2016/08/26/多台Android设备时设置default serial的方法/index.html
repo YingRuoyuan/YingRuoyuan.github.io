@@ -310,21 +310,21 @@ EnvironmentError: Multiple devices attached but default android serial not set.
 
       
         <p>现象：</p>
-<p><span style="white-space:pre"></span>跑Python脚本时出现报错：</p>
-<p><span style="white-space:pre"></span>EnvironmentError: Multiple devices attached but default android serial not set.</p>
-<p><span style="white-space:pre"></span>这是由于电脑上链接了多台devices，但是又没有指定默认使用的device导致；</p>
+<p>跑Python脚本时出现报错：</p>
+<p>EnvironmentError: Multiple devices attached but default android serial not set.</p>
+<p>这是由于电脑上链接了多台devices，但是又没有指定默认使用的device导致；</p>
 <a id="more"></a>
 <p>如：</p>
 <p><span style="white-space:pre">$ adb devices</span></p>
 <p>List of devices attached&nbsp;</p>
-<p><span style="white-space:pre"></span><span style="white-space:pre">DC886B65</span><span style="white-space:pre"></span><span style="white-space:pre">device</span></p>
+<p><span style="white-space:pre">DC886B65</span><span style="white-space:pre">device</span></p>
 <p>DC886B75<span style="white-space:pre"> </span>device</p>
 <p>解决方案：</p>
 <p>这种情况一般来说可以用-s指定serial号码即可运行，如：</p>
-<p><span style="white-space:pre"></span>adb -s <span style="white-space:pre"><span style="white-space:pre"><span style="white-space:pre">DC886B7</span>4</span></span>shell</p>
+<p>adb -s <span style="white-space:pre"><span style="white-space:pre"><span style="white-space:pre">DC886B7</span>4</span></span>shell</p>
 <p>但是脚本中不方便指定，能否设置一个默认的呢？可以的：</p>
 <p>在linux下可以通过命令：</p>
-<p><span style="white-space:pre"></span>export ANDROID_SERIAL=&quot;<span style="white-space:pre"><span style="white-space:pre">DC886B75</span></span>&quot;</p>
+<p>export ANDROID_SERIAL=&quot;<span style="white-space:pre"><span style="white-space:pre">DC886B75</span></span>&quot;</p>
 <p>来设定默认的serial号码的device；</p>
 <p>另：当不想使用此变量时，可以unset&nbsp;ANDROID_SERIAL 来取消变量设置；</p>
 

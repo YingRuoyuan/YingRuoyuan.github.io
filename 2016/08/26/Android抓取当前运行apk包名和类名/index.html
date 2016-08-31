@@ -304,15 +304,15 @@
 
       
         <p>现象：</p>
-<p><span style="white-space:pre"></span>需要获取指定apk的包名和活动名；</p>
+<p>需要获取指定apk的包名和活动名；</p>
 <a id="more"></a>
 <p>解决方案：</p>
-<p><span style="white-space:pre"></span>打开apk，进入你需要抓取的activity，执行：</p>
+<p>打开apk，进入你需要抓取的activity，执行：</p>
 <p>adb shell dumpsys window | grep mCurrentFocus</p>
 <p>返回结果：（例如打开了Google的Chrome）</p>
 <p>mCurrentFocus=Window{15145d93 u0 com.android.chrome/com.google.android.apps.chrome.ChromeTabbedActivity}</p>
 <p>这里面的com.android.chrome就是需要的包名，com.google.android.apps.chrome.ChromeTabbedActivity就是需要的activity，同时也抓到了其类名；</p>
-<p><span style="white-space:pre"></span>以上~</p>
+<p>以上~</p>
 
       
     </div>
