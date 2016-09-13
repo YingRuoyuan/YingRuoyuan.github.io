@@ -1,0 +1,2743 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40" xmlns:ns0="http://macVmlSchemaUri">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <meta name="ProgId" content="Word.Document" /> 
+  <meta name="Generator" content="Microsoft Word 15" /> 
+  <meta name="Originator" content="Microsoft Word 15" /> 
+  <!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+  <!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>        dell       </o:Author>
+  <o:LastAuthor>kasim CQ</o:LastAuthor>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>20</o:TotalTime>
+  <o:Created>2014-08-05T07:24:00Z</o:Created>
+  <o:LastSaved>2015-06-04T03:50:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>282</o:Words>
+  <o:Characters>1610</o:Characters>
+  <o:Lines>13</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1889</o:CharactersWithSpaces>
+  <o:Version>15.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--> 
+  <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:DontDisplayPageBoundaries/>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>0 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid/>
+  <w:IgnoreMixedContent/>
+  <w:AlwaysShowPlaceholderText/>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>UZ-CYR</w:LidThemeOther>
+  <w:LidThemeAsian>UZ-CYR</w:LidThemeAsian>
+  <w:LidThemeComplexScript>UZ-CYR</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:NoLineBreaksAfter Lang="JA">        $([{£¥·‘“〈《「『【〔〖〝﹙﹛﹝＄（．［｛￡￥       </w:NoLineBreaksAfter>
+  <w:NoLineBreaksBefore Lang="JA">        !%),.:;&gt;?]}¢¨°·ˇˉ―‖’”…‰′″›℃∶、。〃〉》」』】〕〗〞︶︺︾﹀﹄﹚﹜﹞！＂％＇），．：；？］｀｜｝～￠       </w:NoLineBreaksBefore>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]-->
+  <!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true" UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="59" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true" UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]--> 
+  <style>
+<!--@font-face
+    {variable;}
+span.A1
+    {1.0pt;}
+@font-face
+    {variable;}
+span.A1
+    {no;}
+
+ /* Font Definitions */
+ @font-face
+    {font-family:宋体;
+    panose-1:2 1 6 0 3 1 1 1 1 1;
+    mso-font-alt:SimSun;
+    mso-font-charset:134;
+    mso-generic-font-family:auto;
+    mso-font-pitch:variable;
+    mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+    {font-family:"Cambria Math";
+    panose-1:2 4 5 3 5 4 6 3 2 4;
+    mso-font-charset:1;
+    mso-generic-font-family:roman;
+    mso-font-format:other;
+    mso-font-pitch:variable;
+    mso-font-signature:0 0 0 0 0 0;}
+@font-face
+    {font-family:Calibri;
+    panose-1:2 15 5 2 2 2 4 3 2 4;
+    mso-font-charset:0;
+    mso-generic-font-family:swiss;
+    mso-font-pitch:variable;
+    mso-font-signature:-536870145 1073786111 1 0 415 0;}
+@font-face
+    {font-family:"\@宋体";
+    panose-1:2 1 6 0 3 1 1 1 1 1;
+    mso-font-charset:134;
+    mso-generic-font-family:auto;
+    mso-font-pitch:variable;
+    mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+    {font-family:"Heiti SC Light";
+    mso-font-charset:0;
+    mso-generic-font-family:auto;
+    mso-font-pitch:auto;
+    mso-font-signature:0 0 0 0 0 0;}
+@font-face
+    {font-family:微软雅黑;
+    panose-1:2 11 5 3 2 2 4 2 2 4;
+    mso-font-charset:134;
+    mso-generic-font-family:swiss;
+    mso-font-pitch:variable;
+    mso-font-signature:-1610612089 684670034 22 0 262175 0;}
+@font-face
+    {font-family:"\@微软雅黑";
+    panose-1:2 11 5 3 2 2 4 2 2 4;
+    mso-font-charset:134;
+    mso-generic-font-family:swiss;
+    mso-font-pitch:variable;
+    mso-font-signature:-1610612089 684670034 22 0 262175 0;}
+@font-face
+    {font-family:Tahoma;
+    panose-1:2 11 6 4 3 5 4 4 2 4;
+    mso-font-charset:0;
+    mso-generic-font-family:swiss;
+    mso-font-pitch:variable;
+    mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+    {mso-style-unhide:no;
+    mso-style-qformat:yes;
+    mso-style-parent:"";
+    margin:0cm;
+    margin-bottom:.0001pt;
+    text-align:justify;
+    text-justify:inter-ideograph;
+    mso-pagination:none;
+    font-size:10.5pt;
+    mso-bidi-font-size:11.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:Calibri;
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:Calibri;
+    mso-bidi-theme-font:minor-bidi;
+    mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+    {mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-link:"页眉 Char1";
+    margin:0cm;
+    margin-bottom:.0001pt;
+    text-align:center;
+    mso-pagination:none;
+    tab-stops:center 207.65pt right 415.3pt;
+    layout-grid-mode:char;
+    border:none;
+    mso-border-bottom-alt:solid windowtext .75pt;
+    padding:0cm;
+    mso-padding-alt:0cm 0cm 1.0pt 0cm;
+    font-size:9.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:Calibri;
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:Calibri;
+    mso-bidi-theme-font:minor-bidi;
+    mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+    {mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-link:"页脚 Char1";
+    margin:0cm;
+    margin-bottom:.0001pt;
+    mso-pagination:none;
+    tab-stops:center 207.65pt right 415.3pt;
+    layout-grid-mode:char;
+    font-size:9.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:Calibri;
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:Calibri;
+    mso-bidi-theme-font:minor-bidi;
+    mso-font-kerning:1.0pt;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+    {mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-link:"批注框文本 Char1";
+    margin:0cm;
+    margin-bottom:.0001pt;
+    text-align:justify;
+    text-justify:inter-ideograph;
+    mso-pagination:none;
+    font-size:9.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:Calibri;
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:Calibri;
+    mso-bidi-theme-font:minor-bidi;
+    mso-font-kerning:1.0pt;}
+span.Char
+    {mso-style-name:"页眉 Char";
+    mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-unhide:no;
+    mso-style-locked:yes;
+    mso-style-link:页眉;
+    mso-ansi-font-size:9.0pt;
+    mso-bidi-font-size:9.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:Calibri;
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:Calibri;
+    mso-bidi-theme-font:minor-bidi;
+    mso-font-kerning:1.0pt;}
+span.Char0
+    {mso-style-name:"页脚 Char";
+    mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-unhide:no;
+    mso-style-locked:yes;
+    mso-style-link:页脚;
+    mso-ansi-font-size:9.0pt;
+    mso-bidi-font-size:9.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:Calibri;
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:Calibri;
+    mso-bidi-theme-font:minor-bidi;
+    mso-font-kerning:1.0pt;}
+span.Char1
+    {mso-style-name:"批注框文本 Char";
+    mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-unhide:no;
+    mso-style-locked:yes;
+    mso-style-link:批注框文本;
+    mso-ansi-font-size:9.0pt;
+    mso-bidi-font-size:9.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:Calibri;
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:Calibri;
+    mso-bidi-theme-font:minor-bidi;
+    mso-font-kerning:1.0pt;}
+span.a
+    {mso-style-name:页眉字符;
+    mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-unhide:no;
+    mso-style-locked:yes;
+    mso-ansi-font-size:9.0pt;
+    mso-bidi-font-size:9.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:Calibri;
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-font-kerning:1.0pt;}
+span.a0
+    {mso-style-name:页脚字符;
+    mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-unhide:no;
+    mso-style-locked:yes;
+    mso-style-link:页脚;
+    mso-ansi-font-size:9.0pt;
+    mso-bidi-font-size:9.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:Calibri;
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-font-kerning:1.0pt;}
+span.Char10
+    {mso-style-name:"页眉 Char1";
+    mso-style-priority:99;
+    mso-style-unhide:no;
+    mso-style-locked:yes;
+    mso-style-link:页眉;
+    mso-ansi-font-size:9.0pt;
+    mso-bidi-font-size:9.0pt;
+    font-family:"Heiti SC Light";
+    mso-ascii-font-family:"Heiti SC Light";
+    mso-fareast-font-family:"Heiti SC Light";
+    mso-hansi-font-family:"Heiti SC Light";}
+span.Char11
+    {mso-style-name:"页脚 Char1";
+    mso-style-priority:99;
+    mso-style-unhide:no;
+    mso-style-locked:yes;
+    mso-style-link:页脚;
+    mso-ansi-font-size:9.0pt;
+    mso-bidi-font-size:9.0pt;}
+span.Char12
+    {mso-style-name:"批注框文本 Char1";
+    mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-unhide:no;
+    mso-style-locked:yes;
+    mso-style-link:批注框文本;
+    mso-ansi-font-size:9.0pt;
+    mso-bidi-font-size:9.0pt;}
+span.SpellE
+    {mso-style-name:"";
+    mso-spl-e:yes;}
+span.GramE
+    {mso-style-name:"";
+    mso-gram-e:yes;}
+.MsoChpDefault
+    {mso-style-type:export-only;
+    mso-default-props:yes;
+    font-size:10.0pt;
+    mso-ansi-font-size:10.0pt;
+    mso-bidi-font-size:10.0pt;
+    mso-ascii-font-family:Calibri;
+    mso-fareast-font-family:宋体;
+    mso-hansi-font-family:Calibri;
+    mso-font-kerning:0pt;}
+ /* Page Definitions */
+ @page
+    {mso-page-border-surround-header:no;
+    mso-page-border-surround-footer:no;}
+@page WordSection1
+    {size:595.3pt 841.9pt;
+    margin:1.0cm 42.45pt 72.0pt 49.65pt;
+    mso-header-margin:42.55pt;
+    mso-footer-margin:49.6pt;
+    mso-paper-source:0;
+    layout-grid:15.6pt;}
+div.WordSection1
+    {page:WordSection1;}
+-->
+</style> 
+  <!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+    {mso-style-name:普通表格;
+    mso-tstyle-rowband-size:0;
+    mso-tstyle-colband-size:0;
+    mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-parent:"";
+    mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+    mso-para-margin:0cm;
+    mso-para-margin-bottom:.0001pt;
+    mso-pagination:widow-orphan;
+    font-size:10.0pt;
+    font-family:"Calibri","sans-serif";}
+table.MsoTableGrid
+    {mso-style-name:网格型;
+    mso-tstyle-rowband-size:0;
+    mso-tstyle-colband-size:0;
+    mso-style-priority:59;
+    mso-style-unhide:no;
+    border:solid black 1.0pt;
+    mso-border-themecolor:text1;
+    mso-border-alt:solid black .5pt;
+    mso-border-themecolor:text1;
+    mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+    mso-border-insideh:.5pt solid black;
+    mso-border-insideh-themecolor:text1;
+    mso-border-insidev:.5pt solid black;
+    mso-border-insidev-themecolor:text1;
+    mso-para-margin:0cm;
+    mso-para-margin-bottom:.0001pt;
+    mso-pagination:widow-orphan;
+    font-size:10.5pt;
+    mso-bidi-font-size:11.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-font-kerning:1.0pt;}
+</style>
+<![endif]--> 
+  <meta name="标题" content="" /> 
+  <meta name="关键词" content="" /> 
+  <!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1028"/>
+</xml><![endif]-->
+  <!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]--> 
+ </head> 
+ <body lang="ZH-CN" style="tab-interval:21.0pt;text-justify-trim:punctuation"> 
+  <div class="WordSection1" style="layout-grid:15.6pt"> 
+   <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"> 
+    <tbody>
+     <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:42.5pt"> 
+      <td width="204" rowspan="3" valign="top" style="width:102.1pt;background:#F9F9F9;
+  padding:0cm 5.4pt 0cm 5.4pt;height:42.5pt"> <p class="MsoNormal">
+        <!--[if gte vml 1]><o:wrapblock><v:shapetype id="_x0000_t75"
+    coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+    filled="f" stroked="f">
+    <v:stroke joinstyle="miter"/>
+    <v:formulas>
+     <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+     <v:f eqn="sum @0 1 0"/>
+     <v:f eqn="sum 0 0 @1"/>
+     <v:f eqn="prod @2 1 2"/>
+     <v:f eqn="prod @3 21600 pixelWidth"/>
+     <v:f eqn="prod @3 21600 pixelHeight"/>
+     <v:f eqn="sum @0 0 1"/>
+     <v:f eqn="prod @6 1 2"/>
+     <v:f eqn="prod @7 21600 pixelWidth"/>
+     <v:f eqn="sum @8 21600 0"/>
+     <v:f eqn="prod @7 21600 pixelHeight"/>
+     <v:f eqn="sum @10 21600 0"/>
+    </v:formulas>
+    <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+    <o:lock v:ext="edit" aspectratio="t"/>
+   </v:shapetype><v:shape id="图片_x0020_0" o:spid="_x0000_s1027" type="#_x0000_t75"
+    alt="说明: QQ截图20140715093346.png" style='position:absolute;left:0;
+    text-align:left;margin-left:11.85pt;margin-top:15.15pt;width:75pt;height:75pt;
+    z-index:251657728;visibility:visible;mso-wrap-style:square;
+    mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+    mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+    mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+    mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+    mso-position-vertical-relative:text;mso-width-percent:0;
+    mso-height-percent:0;mso-width-relative:page;mso-height-relative:page'>
+    <v:imagedata src="https://image0.lietou-static.com/normal/55557f3b28ee44a8919620ce01a.gif"/>
+    <w:wrap type="topAndBottom"/>
+   </v:shape><![endif]-->
+        <!--[if !vml]--><span style="mso-ignore:vglayout">
+       <table cellpadding="0" cellspacing="0"> 
+        <tbody>
+         <tr> 
+          <td width="38" height="0"></td> 
+         </tr> 
+         <tr> 
+          <td></td> 
+          <td><img width="150" height="150" src="https://image0.lietou-static.com/normal/55557f3b28ee44a8919620ce01a.gif" alt="说明: QQ截图20140715093346.png" v:shapes="图片_x0020_0" /></td> 
+         </tr> 
+        </tbody>
+       </table> 
+       </span>
+       <!--[endif]-->
+       <!--[if gte vml 1]></o:wrapblock><![endif]--><br style="mso-ignore:vglayout" clear="ALL" /> <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+  宋体">
+        <o:p></o:p></span></p> </td> 
+      <td width="802" colspan="4" style="width:401.1pt;background:#F9F9F9;padding:0cm 5.4pt 0cm 5.4pt;
+  height:42.5pt"> <p class="MsoNormal" style="line-height:150%">
+        <!--[if gte vml 1]><v:shape id="_x0000_s1026"
+   type="#_x0000_t75" alt="说明: QQ截图20140715093346.png" style='position:absolute;
+   left:0;text-align:left;margin-left:356.65pt;margin-top:2.15pt;width:36pt;
+   height:36pt;z-index:251659776;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:page;mso-height-relative:page'>
+   <v:imagedata src="https://image0.lietou-static.com/img/5697690545cec841a3d9289b04a.png"/>
+  </v:shape><![endif]-->
+        <!--[if !vml]-->
+         <span style="mso-ignore:vglayout;position:absolute;z-index:251659776;left:0px;margin-left:796px;margin-top:9px;width:72px;height:72px">
+          <img width="72" height="72" src="https://image0.lietou-static.com/img/5697690545cec841a3d9289b04a.png" alt="说明: QQ截图20140715093346.png" v:shapes="_x0000_s1026" />
+         </span>
+        <!--[endif]-->
+         <b style="mso-bidi-font-weight:normal">
+          <span style="font-size:16.5pt;line-height:150%;font-family:&quot;微软雅黑&quot;,&quot;sans-serif&quot;">
+          赵相毅
+          </span>
+         </b>
+         <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Male
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;height:21.45pt"> 
+      <td width="199" valign="top" style="width:99.3pt;background:#F9F9F9;padding:0cm 5.4pt 0cm 5.4pt;height:21.45pt"> 
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:150%">
+        <span style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Current Company: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="604" colspan="3" valign="top" style="width:301.8pt;background:#F9F9F9;padding:0cm 5.4pt 0cm 5.4pt;height:21.45pt">
+       <p class="MsoNormal" align="left" style="text-align:left;line-height:150%">
+        <span style='font-family:宋体;mso-ascii-font-family:Tahoma;mso-hansi-font-family:Tahoma'>
+        上海久振网络科技有限公司
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:31.95pt"> 
+      <td width="199" valign="top" style="width:99.3pt;background:#F9F9F9;padding:0cm 5.4pt 0cm 5.4pt;height:31.95pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:150%">
+        <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Current Title: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="203" valign="top" style="width:101.35pt;background:#F9F9F9;padding:0cm 5.4pt 0cm 5.4pt;height:31.95pt">
+       <p class="MsoNormal" align="left" style="text-align:left;line-height:150%">
+        <span style="font-family:宋体;mso-ascii-font-family:Tahoma;mso-hansi-font-family:Tahoma">
+        自动化工程师
+        </span>
+       </p> 
+      </td> 
+      <td width="183" valign="top" style="width:91.6pt;background:#F9F9F9;padding:0cm 5.4pt 0cm 5.4pt;height:31.95pt"> 
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:150%">
+        <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Year to work: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="218" valign="top" style="width:108.85pt;background:#F9F9F9;padding:0cm 5.4pt 0cm 5.4pt;height:31.95pt">
+       <p class="MsoNormal" align="left" style="text-align:left;line-height:150%">
+        <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+        3Years
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <p class="MsoNormal" style="tab-stops:170.25pt">
+    <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+     <span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>
+     <o:p></o:p>
+    </span>
+   </p> 
+   <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"> 
+    <tbody>
+     <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+      <td width="1006" colspan="4" valign="top" style="width:503.2pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:12.0pt;font-family:&quot;微软雅黑&quot;,&quot;sans-serif&quot;">
+          Personal Information 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1"> 
+      <td width="218" valign="top" style="width:109.05pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Age: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="283" valign="top" style="width:141.3pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         25
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="166" valign="top" style="width:82.8pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Marital Status: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="340" valign="top" style="width:170.05pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          Single
+          <o:p></o:p>
+         </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:2"> 
+      <td width="218" valign="top" style="width:109.05pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Mobile: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="283" valign="top" style="width:141.3pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         18930775127
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="166" valign="top" style="width:82.8pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Email: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="340" valign="top" style="width:170.05pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         469547150@qq.com
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:3"> 
+      <td width="218" valign="top" style="width:109.05pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Nationality: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="283" valign="top" style="width:141.3pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         China 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="166" valign="top" style="width:82.8pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Hukou: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="340" valign="top" style="width:170.05pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"> 
+      <td width="218" valign="top" style="width:109.05pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Current Status: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="283" valign="top" style="width:141.3pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         On job, open for new job
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="166" valign="top" style="width:82.8pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Present Locus:
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="340" valign="top" style="width:170.05pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         SHANGHAI
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <div class="MsoNormal" align="center" style="text-align:center">
+    <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+     <hr size="1" width="100%" noshade="" style="color:#F2F2F2;mso-themecolor:background1;mso-themeshade:242" align="center" />
+    </span>
+   </div> 
+   <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"> 
+    <tbody>
+     <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+      <td width="1028" colspan="2" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:&quot;微软雅黑&quot;,&quot;sans-serif&quot;">
+          Career Development Intention 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Expected Industry: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Computer Software
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%">
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:2"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Expected Position: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Software Engineer;WEB Front-end Developer;Mobile Front-end Developer
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:3"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Expected Location: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         SHANGHAI 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:4"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Expect Salary: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         216 K 18,000 Yuan / Month * 12 Months 
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%">
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Current Salary: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         216 K 18,000 Yuan / Month * 12 Months 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <div class="MsoNormal" align="center" style="text-align:center">
+    <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+     <hr size="1" width="100%" noshade="" style="color:#F2F2F2;mso-themecolor:background1;mso-themeshade:242" align="center" />
+    </span>
+   </div> 
+   <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"> 
+    <tbody>
+     <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+      <td width="1028" colspan="4" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:&quot;微软雅黑&quot;,&quot;sans-serif&quot;">
+          Work Experience 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;height:19.85pt"> 
+      <td width="255" colspan="2" style="width:127.6pt;border:none;border-left:solid #FF9900 2.25pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" style="margin-left:5.25pt;mso-para-margin-left:.5gd">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2016.05-Now
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" style="width:386.4pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">
+         <span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Tahoma;mso-hansi-font-family:Tahoma">
+         上海久振网络科技有限公司
+         </span>
+        </b>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt">
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     
+     <tr style="mso-yfti-irow:2"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="margin-top:12.0pt;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Description: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:宋体;mso-ascii-font-family:Tahoma;mso-hansi-font-family:Tahoma;mso-bidi-font-family:Tahoma">
+        久振网络科技是一家专注于大数据分析的互联网公司，通过对海量数据的采集和分析向终端用户提供信息的实时搜索以及行业解决方案。<br/>公司的创始人是行业内打拼多年的老兵，积累了丰富的行业经验和资源，同时也深谙大数据的发展脉络。我们相信以大数据为背景的产业变革势在必行，谁懂得大数据，能通过大数据更好的了解客户和服务客户，谁就将在未来十年的产业变革中占据优势。<br/>作为成长型企业，我们将为您提供：<br/>Ø  可持续发展的个人职业生涯及广阔的发展空间；<br/>Ø  极具竞争力的薪酬；<br/>Ø  国家规定的五险一金；<br/>Ø  融洽、互助、友好的工作氛围；<br/>Ø  良好的福利项目，比如：年度旅游、节日礼品、部门聚餐等;<br/>Ø  对于核心技术人员更有丰厚的股权激励等您分享。<br/>大数据时代已经来临，您还在等什么？赶快加入我们吧！让我们一起创造和打磨令人激动的基于大数据的互联网产品！共同开创大数据新世界！<br/>智联前程：<br/>2015-01-26资深产品经理<br/>2015-01-26交互设计师 (UX designer)<br/>2015-01-26系统架构师<br/>2015-01-26高级软件工程师<br/>2015-01-26软件工程师<br/>2015-01-26搜索引擎工程师<br/>2015-01-26WEB前端工程师<br/>2015-01-26爬虫工程师
+        </span>
+        <span style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <span lang="EN-US">
+          <o:p></o:p>
+         </span>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:3"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Type of Company: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Joint Venture·Cooperation
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:4"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Size of Company: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         50-99
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:5"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Industry: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Internet/Mobile Internet/E-Business
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:6;height:19.85pt"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt"> 
+       <p class="MsoNormal" style="line-height:115%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="788" colspan="2" valign="top" style="width:394.1pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="left" style="text-align:left;line-height:115%">
+        <b style="mso-bidi-font-weight:normal">
+         <span style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:宋体;mso-ascii-font-family:Tahoma;mso-hansi-font-family:Tahoma">
+          自动化工程师
+         </span>
+        </b>
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+      <td width="206" valign="top" style="width:102.9pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:115%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2016.05-Now
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:8"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Company Locations: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         SHANGHAI
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:11"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Subordinate: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         0
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:12"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Responsibilities: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          Build a framework based Appium Android ios test platform, through xml reduce the recognition control coupling, take PO design mode, and supports test execution two kinds of mobile platforms, proficiency testing tools to prepare, such as QRcode plotted and displayed correctly decode acknowledgment image; multi-process synchronization server with a case of start and end; familiar with two kinds of platform basic moves, such as screenshots than peers; the unittest add errorhandle, failed to achieve the test results and other shots;
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;height:19.85pt"> 
+      <td width="255" colspan="2" style="width:127.6pt;border:none;border-left:solid #FF9900 2.25pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" style="margin-left:5.25pt;mso-para-margin-left:.5gd">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2015.03-2016.05
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" style="width:386.4pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">
+         <span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Tahoma;mso-hansi-font-family:Tahoma">
+         诚迈科技(南京)股份有限公司
+         </span>
+        </b>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt">
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     
+     <tr style="mso-yfti-irow:2"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="margin-top:12.0pt;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Description: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:宋体;mso-ascii-font-family:Tahoma;mso-hansi-font-family:Tahoma;mso-bidi-font-family:Tahoma">
+        诚迈科技（南京）有限公司成立于2006年9月，是一家专业从事软件产品设计、代码开发、质量保证及技术支持等全流程服务的软件服务提供商，致力于提供全球化的专业软件研发服务，专注于移动设备及无线互联网行业软件研发及咨询等服务。诚迈科技总部位于中国南京。经过多年多的发展，规模已超过1900人，在加拿大、芬兰及日本设立销售体系，在北京、上海、深圳、武汉和西安设有分支机构，业务覆盖全球，在中国（内地及台湾）、北美、欧洲、日本、韩国等地广泛开展业务。<br/>诚迈科技作为行业的领军者，在全球范围内为国内外客提供一流的软件研发和测试服务。专业的研发团队凭借多年的项目经验掌握了行业核心技术，可提供Android行业软件解决方案（车载系统、TV、eBook等）；移动互联网软件解决方案（浏览器、APP Store、运营商定制等）；云终端解决方案及企业应用和云计算解决方案。在嵌入式测试方面，诚迈科技专业的软件测试团队在测试方法、测试策略、测试标准方面有着丰富的经验，精通手机终端设备中的手机操作系统、手机应用软件等测试。目前，诚迈科技已经与世界级的客户建立了长期友好的合作关系，主要客户广泛分布于终端设备制造商、世界级芯片制造商、运营商及软件公司。...
+        </span>
+        <span style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <span lang="EN-US">
+          <o:p></o:p>
+         </span>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:3"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Type of Company: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Foreign-funded·Foreign Office
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:4"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Size of Company: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         1000-2000
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:5"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Industry: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Computer Software
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:6;height:19.85pt"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt"> 
+       <p class="MsoNormal" style="line-height:115%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="788" colspan="2" valign="top" style="width:394.1pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="left" style="text-align:left;line-height:115%">
+        <b style="mso-bidi-font-weight:normal">
+         <span style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:宋体;mso-ascii-font-family:Tahoma;mso-hansi-font-family:Tahoma">
+          python automation Engineer
+         </span>
+        </b>
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+      <td width="206" valign="top" style="width:102.9pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:115%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2015.03-2016.05
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:8"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Company Locations: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         SHANGHAI
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:11"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Subordinate: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         0
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:12"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Responsibilities: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          Intel outsourcing, based on the Android platform test point requirements, develop python case, test automation, automation rate increase case ● perform maintenance for the existing code and debug ● New on Intel platforms porting, so that code can be executed normally in the new platform code mainly ● implementation: use uiaotomator UI operation performed by GITS tool to record stream comparison screenshots, crawling nodes crawl logcat keywords, image contrast python to achieve, photographed two-dimensional code decoder checks and
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;height:19.85pt"> 
+      <td width="255" colspan="2" style="width:127.6pt;border:none;border-left:solid #FF9900 2.25pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" style="margin-left:5.25pt;mso-para-margin-left:.5gd">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2013.10-2015.03
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" style="width:386.4pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">
+         <span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Tahoma;mso-hansi-font-family:Tahoma">
+         上海广达制造城
+         </span>
+        </b>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt">
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     
+     <tr style="mso-yfti-irow:5"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Industry: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Computer Software
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:6;height:19.85pt"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt"> 
+       <p class="MsoNormal" style="line-height:115%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="788" colspan="2" valign="top" style="width:394.1pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="left" style="text-align:left;line-height:115%">
+        <b style="mso-bidi-font-weight:normal">
+         <span style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:宋体;mso-ascii-font-family:Tahoma;mso-hansi-font-family:Tahoma">
+          SoftwareEngineer
+         </span>
+        </b>
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+      <td width="206" valign="top" style="width:102.9pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:115%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:115%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2013.10-2015.03
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:8"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Company Locations: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         SHANGHAI
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:11"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Subordinate: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         0
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:12"> 
+      <td width="34" valign="top" style="width:17.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         <o:p>
+          &nbsp;
+         </o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="221" valign="top" style="width:110.6pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Responsibilities: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="773" colspan="2" valign="top" style="width:386.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          By modifying and coding the test apk and writing requirements of bat, shell and other tools, with RD maintain production lines smooth production, primarily responsible for maintaining the tablet android system mobile phone test programs to run in production, and the test results to debug the corresponding the issue.
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <!--[if !supportMisalignedColumns]--> 
+     <tr height="0"> 
+      <td width="34" style="border:none"></td> 
+      <td width="221" style="border:none"></td> 
+      <td width="606" style="border:none"></td> 
+      <td width="167" style="border:none"></td> 
+     </tr> 
+     <!--[endif]--> 
+    </tbody>
+   </table> 
+   <div class="MsoNormal" align="center" style="text-align:center">
+    <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+     <hr size="1" width="100%" noshade="" style="color:#F2F2F2;mso-themecolor:background1;mso-themeshade:242" align="center" /> 
+    </span>
+   </div> 
+   <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"> 
+    <tbody>
+     <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+      <td width="1028" colspan="6" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:&quot;微软雅黑&quot;,&quot;sans-serif&quot;">
+          Educational Experience 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1"> 
+      <td width="1028" colspan="6" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:150%">
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-bidi">
+          Shanghai Institution of Technology
+         </span>
+         </b>
+         <b style="mso-bidi-font-weight:normal">
+          <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+           (2009.09 - 2013.07) 
+          </span>
+         </b>
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%">
+          <o:p></o:p>
+         </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"> 
+      <td width="124" valign="top" style="width:61.9pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:150%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Major: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="327" valign="top" style="width:163.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="left" style="text-align:left;line-height:150%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-bidi">
+         electronic and information engineering
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%">
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="131" valign="top" style="width:65.45pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:150%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Degree: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="156" valign="top" style="width:77.95pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:150%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Bachelor 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="184" valign="top" style="width:92.15pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:150%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Full-time school: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="107" valign="top" style="width:53.3pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:150%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         Yes
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:150%">
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <div class="MsoNormal" align="center" style="text-align:center">
+    <span lang="UZ-CYR" style="mso-ansi-language:UZ-CYR"> 
+     <hr size="1" width="100%" noshade="" style="color:#F2F2F2;mso-themecolor:background1;mso-themeshade:242" align="center" /> 
+    </span>
+   </div> 
+   <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"> 
+    <tbody>
+     <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+      <td width="1028" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:150%">
+        <b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:150%;font-family:&quot;微软雅黑&quot;,&quot;sans-serif&quot;">
+          Language Ability 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+      <td width="1028" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         English、Mandarin 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <div class="MsoNormal" align="center" style="text-align:center">
+    <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+     <hr size="1" width="100%" noshade="" style="color:#F2F2F2;mso-themecolor:background1;mso-themeshade:242" align="center" /> 
+    </span>
+   </div> 
+   <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none">
+    <tbody>
+     <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+      <td width="1028" colspan="3" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:&quot;微软雅黑&quot;,&quot;sans-serif&quot;">
+          Project Experience 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;height:19.85pt"> 
+      <td width="777" colspan="2" style="width:388.55pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal">
+        <span class="SpellE">
+         <b style="mso-bidi-font-weight:normal">
+          <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+           eengoo
+          </span>
+         </b>
+        </span>
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+      <td width="251" style="width:125.45pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="right" style="text-align:right">
+        <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2016.05-Now
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:2"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Project Position: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          python automation engeneer
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:3"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Description: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          build a test framework for eengoo app,a application like facebook;
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:4"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Responsibilities: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          Build a framework based Appium Android ios test platform, through xml reduce the recognition control coupling, take PO design mode, and supports test execution two kinds of mobile platforms;
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Achievement: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          proficiency testing tools to prepare, such as QRcode plotted and displayed correctly decode acknowledgment image; multi-process synchronization server with a case of start and end; familiar with two kinds of platform basic moves, such as screenshots than peers; the unittest add errorhandle, failed to achieve the test results and other shots;<br/>
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;height:19.85pt"> 
+      <td width="777" colspan="2" style="width:388.55pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal">
+        <span class="SpellE">
+         <b style="mso-bidi-font-weight:normal">
+          <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+           intel kernel Android phone and tablet
+          </span>
+         </b>
+        </span>
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+      <td width="251" style="width:125.45pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="right" style="text-align:right">
+        <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2015.03-2016.05
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:2"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Project Position: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          python automation engeneer
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:3"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Description: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          Depending on the phone plate characteristics, carried out case design, and according to the test point, coding the case with python
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:4"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Responsibilities: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          porting the new platform (android L, android M),design the test case,and coding the case.
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Achievement: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          Use uiautomator operation UI interface, use am commanded apk, crawl image comparison; using keywords, etc. dumpsys, logcat, getprop and other specified crawling action after completion of the test; provides an interface test plate through the underlying display is normal; the development of common tools to achieve mass write the script, automatically run case, etc; according to the new phone tablet platform adaptation of code;
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;height:19.85pt"> 
+      <td width="777" colspan="2" style="width:388.55pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal">
+        <span class="SpellE">
+         <b style="mso-bidi-font-weight:normal">
+          <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+           Android platform tablet
+          </span>
+         </b>
+        </span>
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+      <td width="251" style="width:125.45pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="right" style="text-align:right">
+        <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2013.10-2015.03
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:2"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Project Position: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          software RD
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:3"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Description: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          A MTK kernel of Android Tablet PC platform, is still in trial production stage
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:4"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Responsibilities: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          To production from the B stage, by modifying the debugging device end of the test program, namely through the eclipse to change the source code recompilation and other means to meet the production line and Taipei RD test requirements in Ubuntu under sync has built code base, and to increase the patch according to demand, production testing the use of bat, shell scripts, etc. to meet the production line requirements.
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Achievement: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          Write scripts to burn image, solve various device-side crash test apk, abnormal test programs related problems, according to the measuring point, modify write apk, with RD integration test image, do pre-programming verification, use the script to push the tool, with the apk changes. Discuss testing program, so that the test carried out smoothly.
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;height:19.85pt"> 
+      <td width="777" colspan="2" style="width:388.55pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal">
+        <span class="SpellE">
+         <b style="mso-bidi-font-weight:normal">
+          <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+           Android platform tablet
+          </span>
+         </b>
+        </span>
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+      <td width="251" style="width:125.45pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="right" style="text-align:right">
+        <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2014.01-2015.03
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:2"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Project Position: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          software RD
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:3"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Description: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          A Intel Core Android Tablet PC platform, has both android and windows system,is not currently in mass production
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:4"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Responsibilities: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          To production from the B stage, by modifying the debugging device end of the test program, namely through the eclipse to change the source code recompilation and other means to meet the production line and Taipei RD test requirements in Ubuntu under sync has built code base, and to increase the patch according to demand, production testing the use of bat, shell scripts, etc. to meet the production line requirements.
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Achievement: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          Scripting burning image, according to the testing requirements, preparation of the corresponding apk module, to solve various device-side test apk abnormal test programs related issues, with the RD integration test image, do pre-programming verification, use the script to push the tool, with the apk changes. Discuss testing program, so that the test carried out smoothly.
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;height:19.85pt"> 
+      <td width="777" colspan="2" style="width:388.55pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal">
+        <span class="SpellE">
+         <b style="mso-bidi-font-weight:normal">
+          <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+           Android platform phone
+          </span>
+         </b>
+        </span>
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+      <td width="251" style="width:125.45pt;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:242;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+       <p class="MsoNormal" align="right" style="text-align:right">
+        <span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+         2014.03-2014.08
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:2"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Project Position: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          software RD
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:3"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Description: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          A Qualcomm core Android mobile phone, the output 30k +
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:4"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Responsibilities: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          To production from the B stage, by modifying the debugging device end of the test program, namely through the eclipse to change the source code recompilation and other means to meet the production line and Taipei RD test requirements in Ubuntu under sync has built code base, and to increase the patch according to demand, production testing the use of bat, shell scripts, etc. to meet the production line requirements.
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"> 
+      <td width="224" valign="top" style="width:111.75pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" align="right" style="text-align:right;line-height:130%">
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体;color:#666666">
+         Achievement: 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+      <td width="805" colspan="2" valign="top" style="width:402.25pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          fix bug, restoration has a chance to fail when wifi into the fast perfomance test, test apk crash, abnormal end of the test program and other device-related issues, with the RD integration test image, use the script to push the tool, with the apk changes to meet the card electricity demand. Discuss testing program, so that the test carried out smoothly.
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+     <!--[if !supportMisalignedColumns]--> 
+     <tr height="0"> 
+      <td width="184" style="border:none"></td> 
+      <td width="327" style="border:none"></td> 
+      <td width="197" style="border:none"></td> 
+     </tr> 
+     <!--[endif]--> 
+    </tbody>
+   </table> 
+   
+   <div class="MsoNormal" align="center" style="text-align:center">
+    <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+     <hr size="1" width="100%" noshade="" style="color:#F2F2F2;mso-themecolor:background1;mso-themeshade:242" align="center" /> 
+    </span>
+   </div> 
+   <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"> 
+    <tbody>
+     <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+      <td width="1028" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:&quot;微软雅黑&quot;,&quot;sans-serif&quot;">
+          Self-assessment 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+      <td width="1028" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          I hope to development at full-stack web engineer, and I love the scrapy craw data and learn Image skills like opencv.  
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   
+   <div class="MsoNormal" align="center" style="text-align:center">
+    <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+     <hr size="1" width="100%" noshade="" style="color:#F2F2F2;mso-themecolor:background1;mso-themeshade:242" align="center" />
+    </span>
+   </div> 
+   <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"> 
+    <tbody>
+     <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+      <td width="1028" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal">
+        <b style="mso-bidi-font-weight:normal">
+         <span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:&quot;微软雅黑&quot;,&quot;sans-serif&quot;">
+          Additional Info 
+          <o:p></o:p>
+         </span>
+        </b>
+       </p> 
+      </td> 
+     </tr> 
+     <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+      <td width="1028" valign="top" style="width:514.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+       <p class="MsoNormal" style="line-height:130%">
+        <span class="SpellE">
+         <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+          https://yingruoyuan.github.io/about/
+         </span>
+        </span>
+        <span lang="EN-US" style="mso-bidi-font-size:10.5pt;line-height:130%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体"> 
+         <o:p></o:p>
+        </span>
+       </p> 
+      </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   
+   <p class="MsoNormal">
+    <span lang="EN-US" style="font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:宋体">
+     <o:p>
+      &nbsp;
+     </o:p>
+    </span>
+   </p> 
+  </div>   
+ </body>
+</html>
