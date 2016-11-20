@@ -5,10 +5,10 @@
   
 
 
-<html class="theme-next mist use-motion">
+<html class="theme-next mist use-motion" lang="zh-Hans">
 <head>
   <meta charset="UTF-8"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
 
@@ -29,7 +29,7 @@
 
   
   
-  <link href="/vendors/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
 
 
 
@@ -63,23 +63,21 @@
 
 
 
-<link href="/vendors/font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
 
-<link href="/css/main.css?v=5.0.1" rel="stylesheet" type="text/css" />
-
-
-  <meta name="keywords" content="Welcome, Yingruoyuan" />
+<link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
 
 
-
-
-
-  <link rel="alternate" href="/atom.xml" title="嬴若渊" type="application/atom+xml" />
+  <meta name="keywords" content="YingRuoyuan" />
 
 
 
 
-  <link rel="shortcut icon" type="image/x-icon" href="/image/icon/favicon.ico?v=5.0.1" />
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.0" />
 
 
 
@@ -88,59 +86,75 @@
 
 <meta name="description" content="About ZhaoXiangYi
     
+
+
+
     
-
-
-
     About me
     趙相毅
-    对Android及ios的自动化测试经验丰富，搭建appium框架，采用PO设计模式，同时支持Android与ios平台；图像比对检查测点，二维码图片识别等熟练应用；
-    喜欢计算机视觉相关及网络数据抓取相关；">
+    毕业于2013年，毕业后做一年Android应用开发，后开始做python自动化测试至今;
+    对Android及ios的自动化测试经验丰富（主力语言python或java)，搭建过appium框架，采用PO设计模式，同时支持Android与ios平台；">
 <meta property="og:type" content="website">
 <meta property="og:title" content="嬴若渊">
-<meta property="og:url" content="https://yingruoyuan.github.io/about/index.html">
+<meta property="og:url" content="http://yingruoyuan.github.io/about/index.html">
 <meta property="og:site_name" content="嬴若渊">
 <meta property="og:description" content="About ZhaoXiangYi
     
+
+
+
     
-
-
-
     About me
     趙相毅
-    对Android及ios的自动化测试经验丰富，搭建appium框架，采用PO设计模式，同时支持Android与ios平台；图像比对检查测点，二维码图片识别等熟练应用；
-    喜欢计算机视觉相关及网络数据抓取相关；">
-<meta property="og:image" content="https://yingruoyuan.github.io/../image/aboutme.png">
-<meta property="og:updated_time" content="2016-09-13T15:56:10.000Z">
+    毕业于2013年，毕业后做一年Android应用开发，后开始做python自动化测试至今;
+    对Android及ios的自动化测试经验丰富（主力语言python或java)，搭建过appium框架，采用PO设计模式，同时支持Android与ios平台；">
+<meta property="og:image" content="http://yingruoyuan.github.io/../image/aboutme.png">
+<meta property="og:updated_time" content="2016-11-20T12:17:39.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="嬴若渊">
 <meta name="twitter:description" content="About ZhaoXiangYi
     
+
+
+
     
-
-
-
     About me
     趙相毅
-    对Android及ios的自动化测试经验丰富，搭建appium框架，采用PO设计模式，同时支持Android与ios平台；图像比对检查测点，二维码图片识别等熟练应用；
-    喜欢计算机视觉相关及网络数据抓取相关；">
-<meta name="twitter:image" content="https://yingruoyuan.github.io/../image/aboutme.png">
+    毕业于2013年，毕业后做一年Android应用开发，后开始做python自动化测试至今;
+    对Android及ios的自动化测试经验丰富（主力语言python或java)，搭建过appium框架，采用PO设计模式，同时支持Android与ios平台；">
+<meta name="twitter:image" content="http://yingruoyuan.github.io/../image/aboutme.png">
 
 
 
-<script type="text/javascript" id="hexo.configuration">
+<script type="text/javascript" id="hexo.configurations">
   var NexT = window.NexT || {};
   var CONFIG = {
+    root: '/',
     scheme: 'Mist',
-    sidebar: {"position":"left","display":"post"},
+    sidebar: {"position":"right","display":"hide"},
     fancybox: true,
     motion: true,
     duoshuo: {
-      userId: 6324987535625815000,
-      author: '博主君'
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
     }
   };
 </script>
+
+
+
+  <link rel="canonical" href="http://yingruoyuan.github.io/about/"/>
+
+
+
+
 
   <title>
   
@@ -169,7 +183,7 @@
     
   
 
-  <div class="container one-collumn sidebar-position-left  ">
+  <div class="container one-collumn sidebar-position-right  ">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -183,7 +197,7 @@
       <span class="logo-line-after"><i></i></span>
     </a>
   </div>
-  <p class="site-subtitle"></p>
+  <p class="site-subtitle">一个负责记录与展示的博客</p>
 </div>
 
 <div class="site-nav-toggle">
@@ -268,6 +282,8 @@
   
 </nav>
 
+
+
  </div>
     </header>
 
@@ -278,22 +294,25 @@
             
 
   <div id="posts" class="posts-expand">
+  <header class="post-header">
+
+	<h2 class="post-title" itemprop="name headline"></h2>
+
+
+
+</header>
+
     
     
-      <!doctype html>
-<html>
+      <html>
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-    <meta name="description" content="Description for Yingruoyuan.">
-    <meta name="keywords" content="About me.">
-    <meta name="menu_title" content="about me">
     <title>About ZhaoXiangYi</title>
     <link href="../css/about_style.css" rel="stylesheet" type="text/css" media="all">
-    <link href="//fonts.googleapis.com/css?family=Viga" rel="stylesheet" type="text/css"></head>
+</head>
 <body>
-<img src="../image/aboutme.png" class="img-photo">
 <div class="main">
+    <img src="../image/aboutme.png" class="img-photo">
     <h1>About me</h1>
     <h2>趙相毅</h2>
     <h3>毕业于2013年，毕业后做一年Android应用开发，后开始做python自动化测试至今;<h3>
@@ -312,7 +331,7 @@
     <h3>----------------------------------------------------------------------------------------------------------------</h3>
     <h4>需要了解更多请戳这里( ￣ ▽￣)o╭╯：<a href="../file/赵相毅的简历.pdf" target="_blank">赵相毅的简历</a></h4>
     <h4><a href="../file/赵相毅的英文简历.doc" target="_blank">英文简历</a></h4>
-</div>
+</h3></h3></h3></h3></h3></h3></h3></h3></h3></h3></h3></h3></h3></h3></h3></h3></div>
 </body>
 </html>
     
@@ -344,18 +363,18 @@
 
       
 
-      <section class="site-overview sidebar-panel  sidebar-panel-active ">
+      <section class="site-overview sidebar-panel sidebar-panel-active">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
                src="/images/avatar.jpg"
                alt="嬴若渊" />
           <p class="site-author-name" itemprop="name">嬴若渊</p>
-          <p class="site-description motion-element" itemprop="description">心溶溶其不可量兮,情澹澹其若渊</p>
+          <p class="site-description motion-element" itemprop="description">一个负责记录与展示的博客</p>
         </div>
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/archives">
-              <span class="site-state-item-count">10</span>
+              <span class="site-state-item-count">11</span>
               <span class="site-state-item-name">日志</span>
             </a>
           </div>
@@ -372,7 +391,7 @@
           
             <div class="site-state-item site-state-tags">
               <a href="/tags">
-                <span class="site-state-item-count">10</span>
+                <span class="site-state-item-count">6</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>
@@ -381,62 +400,8 @@
         </nav>
 
         
-          <div class="feed-link motion-element">
-            <a href="/atom.xml" rel="alternate">
-              <i class="fa fa-rss"></i>
-              RSS
-            </a>
-          </div>
-        
 
         <div class="links-of-author motion-element">
-          
-            
-              <span class="links-of-author-item">
-                <a href="https://github.com/YingRuoyuan" target="_blank" title="GitHub">
-                  
-                    <i class="fa fa-fw fa-github"></i>
-                  
-                  GitHub
-                </a>
-              </span>
-            
-              <span class="links-of-author-item">
-                <a href="https://twitter.com/xiangyizhao1991" target="_blank" title="Twitter">
-                  
-                    <i class="fa fa-fw fa-twitter"></i>
-                  
-                  Twitter
-                </a>
-              </span>
-            
-              <span class="links-of-author-item">
-                <a href="https://www.facebook.com/profile.php?id=100005397649493&sk=about" target="_blank" title="FaceBook">
-                  
-                    <i class="fa fa-fw fa-facebook"></i>
-                  
-                  FaceBook
-                </a>
-              </span>
-            
-              <span class="links-of-author-item">
-                <a href="http://weibo.com/2796648085" target="_blank" title="微博">
-                  
-                    <i class="fa fa-fw fa-weibo"></i>
-                  
-                  微博
-                </a>
-              </span>
-            
-              <span class="links-of-author-item">
-                <a href="http://www.zhihu.com/people/zhao-mu-mu-18" target="_blank" title="知乎">
-                  
-                    <i class="fa fa-fw fa-zhihu"></i>
-                  
-                  知乎
-                </a>
-              </span>
-            
           
         </div>
 
@@ -445,20 +410,9 @@
 
         
         
-          <div class="links-of-blogroll motion-element links-of-blogroll-inline">
-            <div class="links-of-blogroll-title">
-              <i class="fa  fa-fw fa-globe"></i>
-              友情链接：
-            </div>
-            <ul class="links-of-blogroll-list">
-              
-                <li class="links-of-blogroll-item">
-                  <a href="http://www.zhaoxiangyi.com" title="www.zhaoxiangyi.com" target="_blank">www.zhaoxiangyi.com</a>
-                </li>
-              
-            </ul>
-          </div>
+
         
+
 
       </section>
 
@@ -484,8 +438,9 @@
   <span class="author" itemprop="copyrightHolder">嬴若渊</span>
 </div>
 
+
 <div class="powered-by">
-  由 <a class="theme-link" href="http://hexo.io">Hexo</a> 强力驱动
+  由 <a class="theme-link" href="https://hexo.io">Hexo</a> 强力驱动
 </div>
 
 <div class="theme-info">
@@ -494,6 +449,7 @@
     NexT.Mist
   </a>
 </div>
+
 
         
 
@@ -527,42 +483,42 @@
 
 
   
-  <script type="text/javascript" src="/vendors/jquery/index.js?v=2.1.3"></script>
+  <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
 
   
-  <script type="text/javascript" src="/vendors/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
 
   
-  <script type="text/javascript" src="/vendors/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
 
   
-  <script type="text/javascript" src="/vendors/velocity/velocity.min.js?v=1.2.1"></script>
+  <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
 
   
-  <script type="text/javascript" src="/vendors/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
 
   
-  <script type="text/javascript" src="/vendors/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 
-
-  
-
-
-  <script type="text/javascript" src="/js/src/utils.js?v=5.0.1"></script>
-
-  <script type="text/javascript" src="/js/src/motion.js?v=5.0.1"></script>
-
-
-
-  
-  
-
-  
 
   
 
 
-  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.0.1"></script>
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.0"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.0"></script>
+
+
+
+  
+  
+
+  
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.0"></script>
 
 
 
@@ -573,7 +529,7 @@
   
 
   <script type="text/javascript">
-    var duoshuoQuery = {short_name:"yingruoyuan"};
+    var duoshuoQuery = {short_name:"https://yingruoyuan.github.io"};
     (function() {
       var ds = document.createElement('script');
       ds.type = 'text/javascript';ds.async = true;
@@ -587,43 +543,29 @@
 
   
     
-      
-      <script src="/vendors/ua-parser-js/dist/ua-parser.min.js?v=0.7.9"></script>
-      <script src="/js/src/hook-duoshuo.js"></script>
     
+    <script src="/lib/ua-parser-js/dist/ua-parser.min.js?v=0.7.9"></script>
+    <script src="/js/src/hook-duoshuo.js"></script>
   
 
 
 
 
 
-  
-  
-  
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
-        processEscapes: true,
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-      }
-    });
-  </script>
 
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Queue(function() {
-      var all = MathJax.Hub.getAllJax(), i;
-      for (i=0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += ' has-jax';
-      }
-    });
-  </script>
-  <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+
+  
+  
 
   
 
   
+
+  
+
+  
+
 
 </body>
 </html>
